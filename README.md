@@ -18,15 +18,8 @@ nutrition-data-engineering/
 │   ├── raw/                 # Raw nutrition data
 │   ├── transformed/         # Processed and transformed data
 │── notebooks/
-│   ├── data_ingestion.ipynb  # Notebook for data ingestion
-│   ├── data_transformation.ipynb  # Data cleaning & transformation
-│   ├── data_analysis.ipynb   # Statistical and exploratory analysis
-│── scripts/
-│   ├── mount_adls.py        # Script to mount Azure Data Lake
-│   ├── transform_data.py    # Script for data processing
+│   ├── nutrition_data_engineering.ipynb  # Single notebook containing ingestion, cleaning, transformation, and analysis code
 │── README.md                # Project documentation
-│── requirements.txt         # Python dependencies
-│── .gitignore               # Ignore sensitive files
 ```
 
 ## **Data Pipeline**  
