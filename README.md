@@ -110,7 +110,7 @@ dbutils.fs.unmount("/mnt/nutritiondata")
 
 ## Data Source
 
-This project uses the [Food Nutrition Dataset](https://www.kaggle.com/datasets/your-dataset-url) from Kaggle. The dataset provides comprehensive nutritional information for various food items, including calories, macronutrients, micronutrients, and more. It was selected for this project to build a robust meal planning app that delivers personalized nutrition insights.
+This project uses the [Food Nutrition Dataset]([https://www.kaggle.com/datasets/your-dataset-url](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset)) from Kaggle. The dataset provides comprehensive nutritional information for various food items, including calories, macronutrients, micronutrients, and more. It was selected for this project to build a robust meal planning app that delivers personalized nutrition insights.
 
 ## **Contributors**  
 - **Birkti Ayele**  
