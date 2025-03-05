@@ -18,7 +18,7 @@ nutrition-data-engineering/
 │   ├── raw/                 # Raw nutrition data
 │   ├── transformed/         # Processed and transformed data
 │── notebooks/
-│   ├── nutrition_data_engineering.ipynb  # Single notebook containing ingestion, cleaning, transformation, and analysis code
+│   ├── Food_Data_Exploration.ipynb  # Single notebook containing ingestion, cleaning, transformation, and analysis code
 │── README.md                # Project documentation
 ```
 
