@@ -106,7 +106,11 @@ dbutils.fs.unmount("/mnt/nutritiondata")
 ## **Future Enhancements**  
 - Automate the pipeline using **Azure Data Factory**.  
 - Implement **unit tests** for data validation.  
-- Deploy an **interactive dashboard** using Power BI.  
+- Deploy an **interactive dashboard** using Power BI.
+
+## Data Source
+
+This project uses the [Food Nutrition Dataset](https://www.kaggle.com/datasets/your-dataset-url) from Kaggle. The dataset provides comprehensive nutritional information for various food items, including calories, macronutrients, micronutrients, and more. It was selected for this project to build a robust meal planning app that delivers personalized nutrition insights.
 
 ## **Contributors**  
 - **Birkti Ayele**  
