@@ -16,10 +16,9 @@ This project is designed to process, clean, and analyze nutrition data using **A
 ```
 nutrition-data-engineering/
 │── data/
-│   ├── raw/                 # Raw nutrition data
-│   ├── transformed/         # Processed and transformed data
 │   ├── Food_Data_Exploration.ipynb  # Single notebook containing ingestion, cleaning, transformation, and analysis code
-│   ├── Nutrition_DB  # Power BI dashboard for visualization 
+│   ├── Nutrition_DB.pbix  # Power BI dashboard for visualization
+│   ├── Nutrition_DB.png  # Power BI dashboard visualization image
 │── README.md                # Project documentation
 ```
 
