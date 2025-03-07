@@ -2,13 +2,14 @@
 # **Nutrition Data Engineering Project**  
 
 ## **Project Overview**  
-This project is designed to process, clean, and analyze nutrition data using **Azure Databricks** and **Apache Spark**. The goal is to transform raw nutritional data into structured, meaningful insights that can help in food categorization, calorie density analysis, and health scoring.  
+This project is designed to process, clean, and analyze nutrition data using **Azure Databricks** and **Apache Spark**. The goal is to transform raw nutritional data into structured, meaningful insights that can help in food categorization, calorie density analysis, and health scoring.The final output includes an interactive Power BI dashboard for visualizing key nutritional metrics.
 
 ## **Technologies Used**  
 - **Azure Databricks**  
 - **Apache Spark (PySpark)**  
 - **Azure Data Lake Storage (ADLS)**  
-- **Databricks Utilities (`dbutils`)**  
+- **Databricks Utilities (`dbutils`)**
+- **Power BI for data visualization**  
 - **GitHub for version control**  
 
 ## **Project Structure**  
@@ -17,8 +18,8 @@ nutrition-data-engineering/
 │── data/
 │   ├── raw/                 # Raw nutrition data
 │   ├── transformed/         # Processed and transformed data
-│── notebooks/
 │   ├── Food_Data_Exploration.ipynb  # Single notebook containing ingestion, cleaning, transformation, and analysis code
+│   ├── Nutrition_DB  # Power BI dashboard for visualization 
 │── README.md                # Project documentation
 ```
 
@@ -33,7 +34,9 @@ nutrition-data-engineering/
    - Adds derived metrics like calorie density and health scores.  
 3. **Data Storage & Export:**  
    - Saves transformed data back to Azure Data Lake.  
-   - Exports results in CSV format for further use.  
+   - Exports results in CSV format for further use.
+4. **Data Visualization:**  
+   - Uses **Power BI** to create an interactive dashboard that provides insights into calorie distribution, macronutrient breakdown, and food classification trends.  
 
 ## **Setup & Installation**  
 
