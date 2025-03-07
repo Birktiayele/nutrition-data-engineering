@@ -6,7 +6,6 @@ This project is designed to process, clean, and analyze nutrition data using **A
 
 ## **Technologies Used**  
 - **Azure Databricks**  
-- **Apache Spark (PySpark)**  
 - **Azure Data Lake Storage (ADLS)**  
 - **Databricks Utilities (`dbutils`)**
 - **Power BI for data visualization**  
